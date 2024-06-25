@@ -1,5 +1,3 @@
 {
-  "pageUrl": "https://nlucent.github.io/testing-marketplace",
-  "marketIndexUrl": "https://nlucent.github.io/testing-marketplace/servapps.json",
-  "servappsFolder": "servapps"
+  "url": "https://nlucent.github.io/testing-marketplace/servapps.json"
 }
